@@ -1,2 +1,2 @@
 # q-elm
-Q-learning based on Extreme Learning Machine
+Q-learning Network based on Extreme Learning Machine
